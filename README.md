@@ -2,7 +2,7 @@
 
 # Hi, I'm Pawvelle ♡
 
-**你好鸭，我是 Pawvelle · AI & LLM Researcher**
+**AI & LLM Researcher · CS Undergraduate @ HUE**
 
 </div>
 
