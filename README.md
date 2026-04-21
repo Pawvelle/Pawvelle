@@ -1,12 +1,8 @@
 <div align="center">
 
-![title](https://img.shields.io/badge/Hi%2C_I'm_Pawvelle_%E2%99%A1-f48fb1?style=for-the-badge&labelColor=fce4ec&color=f48fb1&logo=github&logoColor=ad1457)
+# Hi, I'm Pawvelle ♡
 
-<br/><br/>
-
-<img src="https://github.com/Pawvelle.png" width="110" height="110" />
-
-<br/><br/>
+**AI & LLM Researcher · CS Undergraduate @ HUE**
 
 </div>
 
