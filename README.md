@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Nunito&size=30&duration=3000&pause=1000&color=F48FB1&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Pawvelle+%E2%99%A1;AI+%26+LLM+Researcher+%F0%9F%8C%B8;%E4%BD%A0%E5%A5%BD%E9%B8%AD+%EF%BC%81" alt="Typing SVG" />
+![title](https://img.shields.io/badge/Hi%2C_I'm_Pawvelle_%E2%99%A1-f48fb1?style=for-the-badge&labelColor=fce4ec&color=f48fb1&logo=github&logoColor=ad1457)
 
-<br/>
+<br/><br/>
 
-<img src="https://github.com/Pawvelle.png" width="110" height="110" style="border-radius:50%;border:3px solid #f48fb1" />
+<img src="https://github.com/Pawvelle.png" width="110" height="110" />
 
 <br/><br/>
 
