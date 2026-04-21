@@ -2,13 +2,13 @@
 
 # Hi, I'm Pawvelle ♡
 
-**AI & LLM Researcher · CS Undergraduate @ HUE**
+**你好鸭，我是 Pawvelle · AI & LLM Researcher**
 
 </div>
 
 ---
 
-### 你好鸭, I'm Pawvelle ♡
+### 你好鸭，我是 Pawvelle ♡
 
     CS Undergraduate @ Hubei University of Education · Class of 2025
 
