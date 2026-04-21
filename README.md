@@ -28,15 +28,6 @@
 
 ---
 
-### ✦ GitHub Stats
-
-<div align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=Pawvelle&show_icons=true&hide_border=true&bg_color=fff5f8&title_color=c2185b&icon_color=f48fb1&text_color=7b3f5e" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pawvelle&layout=compact&hide_border=true&bg_color=fff5f8&title_color=c2185b&text_color=7b3f5e" />
-</div>
-
----
-
 <div align="center">
   <a href="https://github.com/Pawvelle">GitHub</a> ·
   <a href="https://space.bilibili.com/1768745957">Bilibili</a> ·
