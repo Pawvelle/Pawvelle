@@ -1,13 +1,16 @@
-Hi, I'm Pawvelle ✧
+# Hi, I'm Pawvelle ✧
 
-CS Undergraduate @ HUE  
+---
 
-An AI learner in a soft pink world.
+## 你好呀，我是 Pawvelle
 
-喜欢安静地写代码，  
+- CS Undergraduate @ HUE  
+- Exploring AI / LLMs  
+- Learning Java · Python · Data Structures  
 
-也喜欢把零散的想法慢慢连成一片。
+---
 
-still building, still dreaming…  
+喜欢把想法慢慢整理成结构，  
+也在尝试做一些温柔又有秩序的东西。
 
 → https://pawvelle.github.io/
