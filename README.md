@@ -1,8 +1,12 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7,8&height=180&section=header&text=Hi%2C%20I'm%20Pawvelle%20%E2%99%A1&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20LLM%20Researcher&descSize=15&descAlignY=60&descColor=ffe0ec)
+<img src="https://readme-typing-svg.demolab.com?font=Nunito&size=30&duration=3000&pause=1000&color=F48FB1&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Pawvelle+%E2%99%A1;AI+%26+LLM+Researcher+%F0%9F%8C%B8;%E4%BD%A0%E5%A5%BD%E9%B8%AD+%EF%BC%81" alt="Typing SVG" />
 
-<img src="https://github.com/Pawvelle.png" width="100" style="border-radius:50%" />
+<br/>
+
+<img src="https://github.com/Pawvelle.png" width="110" height="110" style="border-radius:50%;border:3px solid #f48fb1" />
+
+<br/><br/>
 
 </div>
 
@@ -44,5 +48,3 @@
 </div>
 
 <div align="center"><sub>built with care ♡</sub></div>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7,8&height=100&section=footer)
